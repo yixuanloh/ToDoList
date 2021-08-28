@@ -4,6 +4,10 @@ This project template is downloaded from https://aspnetboilerplate.com/Templates
 Login function is already included in the template but I hide it by commenting the route for a better visual but it's still there.
 The default landing page would still be the about page, you have to navigate to To-Do-List by clicking To-Do-List at the sidebar menu.
 
+Account:
+username: admin
+password: 123qwe
+
 # Setup
 
 1. Download the source code from the github repository.
